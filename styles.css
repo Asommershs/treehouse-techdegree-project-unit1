@@ -106,6 +106,9 @@ ul.skills {
   padding: 0;
   text-align: center;
 }
+.previous-roles li {
+  color: rgb(65, 150, 225);
+}
 
 .skills li {
   border-radius: 6px;
